@@ -1,0 +1,13 @@
+.FormacionCCA{
+width: 50px;
+height: 50 px;
+border-radius: 100px;
+}
+.contenedor {
+background-image: url(FormacionCCA.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 100px;
+
+}
